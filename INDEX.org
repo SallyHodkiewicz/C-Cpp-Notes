@@ -1,10 +1,10 @@
-#+INCLUDE: theme/style.org 
+*+INCLUDE: theme/style.org 
 #+TITLE: CPP C++ Papyrus 
 #+DESCRIPTION: cpp/c++ code examples and demonstrations.
 #+AUTHOR:      Caio Rodrigues Soares - caiorss [DOT] rodrigues [AT] gmail [DOT] COM
 #+STARTUP: content 
 
-* C++ - CPP 
+  C++ - CPP 
 ** Quick Access 
 
   + [[file:standard_library_map.org][Standard Library Map]]
@@ -201,3 +201,4 @@
     version still does not work well on Safari web browser. 
 
 
+ 
